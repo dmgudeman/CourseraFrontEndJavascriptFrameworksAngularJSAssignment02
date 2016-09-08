@@ -1,1 +1,1 @@
-Third  assignment for the Coursera course of Front End Frameworks - AngularJS
+Second assignment for the Coursera course of Front End Frameworks - AngularJS
